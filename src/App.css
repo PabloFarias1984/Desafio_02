@@ -1,0 +1,21 @@
+*{
+  font-family: 'Roboto Mono', monospace;
+}
+.header{
+  background-color: aquamarine;
+}
+.bold{
+  font-weight: bold;
+  font-size: 25px;
+}
+
+.numero{
+  width: 20px;
+  height: 20px;
+  color: white;
+  position: fixed;
+  right: 2px;
+  top: 10px;
+  background-color: rgb(146, 146, 255);
+  border-radius: 50%;
+}
