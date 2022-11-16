@@ -2,7 +2,7 @@ import Cart from'../Cart'
 const navBar = () => {
     return (
 <header>
- <nav class="navbar navbar-expand-lg bg-warning">
+ <nav class="navbar navbar-expand-lg bg-light">
   <div class="container-fluid">
     <a class="navbar-brand bold" href="#">90's Videos</a>
     <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarText" aria-controls="navbarText" aria-expanded="false" aria-label="Toggle navigation">
